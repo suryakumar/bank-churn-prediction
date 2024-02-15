@@ -1,7 +1,14 @@
+# local files
+Churn_Modelling.csv
+.DS_Store
+testing.ipynb
+catboost_info/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
